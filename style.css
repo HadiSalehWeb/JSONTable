@@ -1,0 +1,29 @@
+body {
+    line-height: 1.6;
+    font-size: 18px;
+    color: #444;
+}
+
+h1 {
+    margin-top: 10px
+}
+
+h1, h2, h3 {
+    line-height: 1.2
+}
+
+header, footer {
+    text-align: center;
+}
+
+button {
+    margin-bottom: 30px;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
